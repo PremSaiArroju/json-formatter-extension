@@ -1,11 +1,18 @@
-# macOS system file
+# macOS system files
 .DS_Store
 
-# npm dependencies (if you add them later)
+# VS Code settings (optional, personal configs)
+.vscode/
+
+# Node modules (in case you add a build process later)
 node_modules/
 
-# Extension packages
+# Zips or packaged extension files
 *.zip
 
-# VS Code settings (optional)
-.vscode/
+# Log files
+*.log
+
+# Environment files (if used in the future)
+.env
+.env.local
