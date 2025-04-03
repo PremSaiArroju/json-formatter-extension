@@ -3,11 +3,11 @@
     "name": "JSON Formatter",
     "version": "1.0",
     "description": "Right-click selected text to format JSON in a new tab.",
-    "permissions": ["contextMenus", "scripting", "tabs", "activeTab"],
+    "permissions": ["contextMenus", "tabs", "activeTab"],
     "background": {
       "service_worker": "background.js"
     },
-    "host_permissions": ["<all_urls>"],
+
     "icons": {
       "128": "icon.png"
     },
