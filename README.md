@@ -14,8 +14,3 @@ A simple, lightweight Chrome extension that lets you right-click on any selected
 
 ---
 
-## 📦 Installation
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/json-formatter-extension.git
