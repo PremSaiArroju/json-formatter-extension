@@ -1,0 +1,11 @@
+# macOS system file
+.DS_Store
+
+# npm dependencies (if you add them later)
+node_modules/
+
+# Extension packages
+*.zip
+
+# VS Code settings (optional)
+.vscode/
